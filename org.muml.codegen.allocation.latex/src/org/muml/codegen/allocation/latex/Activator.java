@@ -21,7 +21,7 @@ public class Activator extends Plugin {
     /**
      * The plug-in ID.
      */
-    public static final String PLUGIN_ID = "org.muml.codegen.componenttype.c";
+    public static final String PLUGIN_ID = "org.muml.c.adapter.componenttype";
 
     /**
      * The shared instance.
